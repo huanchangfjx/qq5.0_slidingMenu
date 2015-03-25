@@ -1,0 +1,3 @@
+D:\64aworkspace\Demo_zhy_02_slidingMenu03\build\intermediates\classes\debug
+D:\64aworkspace\Demo_zhy_02_slidingMenu03\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-58115327c6b51eb2c9b38eb6acecfc10f99b7205.jar
+D:\64aworkspace\Demo_zhy_02_slidingMenu03\build\intermediates\pre-dexed\debug\android-support-v4-3710624d9a1a31a35011f51b32f9ef5c06dd4653.jar
